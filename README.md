@@ -37,7 +37,7 @@ A regra utilizada é baseada na eficiência do álcool em relação à gasolina:
 
 1. Clone o repositório:  
 ```bash
-git clone https://github.com/SeuUsuario/Calculadora-Alcool-Gasolina.git
+git clone https://github.com/victorhferreira02/Calculadora-Alcool-Gasolina.git
 ```
 2. Abra o arquivo index.html no navegador.
 
